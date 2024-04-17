@@ -13,5 +13,12 @@ The Python file contains lines of code showing how to create a stack, add items 
 A stack is a data structure that follows a particular order of operations, which is LIFO(Last In First Out) or FILO(First In Last Out)
 Inserted last comes out first, inserted first comes out last.
 
+## Queue
+The Python file contains lines of code showing how the queue is implemented in the Python programming language. How to create a queue, add items to the queue, remove items from the queue, access items and access the front and back elements.
+Queue is a  data structure that stores elements sequentially.
+It uses the FIFO(First In First Out) principle of accessing elements, meaning that it is open at both ends.
+Inserting is done at one end, the rear end or tail while deletion is done at the front end.
+
+
 
 
