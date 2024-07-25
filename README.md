@@ -19,6 +19,13 @@ Queue is a  data structure that stores elements sequentially.
 It uses the FIFO(First In First Out) principle of accessing elements, meaning that it is open at both ends.
 Inserting is done at one end, the rear end or tail while deletion is done at the front end.
 
+## Heaps
+A data structure that satisfies the heap property, where the value of each node is greater than or equal to the value of the children.
+The heap property makes sure that the root node contains the maximum or minimum value.
+This is dependant on the type of heap.
+The values decrease or increase as you move down the tree.
+
+
 
 
 
